@@ -1,0 +1,29 @@
+# Ortam Değişkenleri & Gizli Anahtarlar
+.env
+.env.local
+
+# Python Derleme & Sanal Ortam
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Vektör Veritabanı & İndeksler (ingest.py ile üretilir)
+faiss_index/
+
+# Yerel Veritabanı Dosyaları
+*.db
+*.sqlite3
+
+# Cloudflare Tünel & Loglar
+cloudflared.exe
+*.log
+data/tunnel_url.txt
+data/cloudflared.log
+data/tmp_*
+
+# IDE Ayarları
+.vscode/
+.idea/

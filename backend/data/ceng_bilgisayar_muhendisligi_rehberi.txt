@@ -1,0 +1,86 @@
+=====================================================================
+ADIYAMAN ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ BİLGİ REHBERİ
+=====================================================================
+
+1. BÖLÜM HAKKINDA VE MİSYON
+Adıyaman Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü; yazılım mühendisliği, donanım tasarımı, veritabanı sistemleri, yapay zeka, ağ güvenliği ve siber güvenlik alanlarında yetkin bilgisayar mühendisleri yetiştirmektedir. Bölümümüz lisans eğitimi 4 yıldır (8 yarıyıl). Eğitim dili Türkçe olup isteğe bağlı hazırlık sınıfı imkanı bulunmaktadır.
+
+2. BİLGİSAYAR MÜHENDİSLİĞİ ZORUNLU STAJ ESASLARI (CENG STAJI)
+- Toplam Staj Süresi: Bilgisayar Mühendisliği lisans programında zorunlu staj süresi toplam 40 iş günüdür.
+- Staj Parçaları: Staj 20 iş günü 'Yazılım Stajı' ve 20 iş günü 'Donanım/Şantiye/Sistem Stajı' olmak üzere 2 eşit parçada yapılır.
+- Başlangıç Zamanı: Zorunlu staj en erken 2. sınıfın (4. yarıyılın) sonunda yapılabilir. 1. sınıf sonunda zorunlu staj yapılamaz.
+- Staj Defteri Teslimi: Staj tamamlandıktan sonra takip eden güz/bahar yarıyılının ilk 4 haftası içinde staj defteri Bölüm Staj Komisyonuna teslim edilir.
+- Defter İmzası: Staj defterindeki tüm sayfalar staj yapılan kurumdaki yetkili Bilgisayar Mühendisi veya Yazılım Mühendisi tarafından kaşelenip imzalanmalıdır.
+- Sigorta: Zorunlu staj süresince 'İş Kazası ve Meslek Hastalığı' sigorta primleri Adıyaman Üniversitesi Rektörlüğü tarafından ödenir.
+- Cumartesi Çalışması: Staj yapılan kurum Cumartesi günleri de mesai yapıyorsa ve bu durum belgelenirse Cumartesi günleri de staj iş gününden sayılır.
+
+3. DERS MÜFREDATI VE DERS ÖNKOŞULLARI
+- 1. Sınıf Dersleri: CENG101 Bilgisayar Mühendisliğine Giriş, CENG102 Programlamaya Giriş (Python/C), Matematik I-II, Fizik I-II, Türk Dili, Atatürk İlkeleri.
+- 2. Sınıf Dersleri: CENG201 Veri Yapıları ve Algoritmalar, CENG203 Nesneye Yönelik Programlama (Java/C++), CENG202 Mantıksal Devre Tasarımı, CENG204 Ayrık Matematik, Doğrusal Cebir.
+- 3. Sınıf Dersleri: CENG301 İşletim Sistemleri, CENG302 Veritabanı Yönetim Sistemleri, CENG303 Bilgisayar Ağları, CENG304 Yazılım Mühendisliği, CENG306 Mikroişlemciler.
+- 4. Sınıf Dersleri: CENG401 Bilgisayar Mühendisliği Tasarımı, CENG402 Bitirme Projesi, Yapay Zeka, Siber Güvenlik, Mobil Uygulama Geliştirme, Bulut Bilişim (Seçmeli Dersler).
+- Bitirme Projesi (CENG402): 4. sınıf öğrencileri öğretim elemanları danışmanlığında lisans bitirme tezi ve uygulamalı yazılım/donanım projesi hazırlayıp jüri önünde sunarlar.
+
+4. SINAV, BAŞARI VE AKADEMİK KURALLAR
+- Not Ağırlıkları: Ara Sınav (Vize) genel ortalamaya %40, Yarıyıl Sonu (Final/Bütünleme) sınavı %60 oranında etki eder.
+- Dersten Geçme ve BDS: Bağıl değerlendirme sistemi (BDS) uygulanır; ham başarı notu alt sınırı fakültemizde 60'tır. Altında kalanlar doğrudan FF alır.
+- Devamsızlık Sınırı: Teorik derslerde en az %70, laboratuvar/uygulama derslerinde en az %80 devam zorunludur. Devamsızlıktan kalan öğrenci (DZ) final/bütünleme sınavına giremez.
+- Devam Muafiyeti: Bir dersin devam şartını daha önce başarıyla yerine getiren (devamsızlıktan kalmayan) öğrencilerin, bu dersi tekrar aldıklarında yeniden derse devam etme zorunlulukları yoktur; sadece ara sınav, final ve ödevlere katılmaları gerekir.
+- Ders Yükü & Üstten Ders Alma: Normal dönemlik ders yükü 30 AKTS'dir. Alt yarıyıllardan başarısız veya eksik dersi olan öğrenciler bu limiti en fazla 40 AKTS'ye kadar çıkarabilir. 3. yarıyıldan itibaren önceki yarıyıllardan başarısız dersi (FF, FD) bulunmayan ve AGNO'su 3.00 ve üzerinde olan öğrenciler danışman onayıyla üst sınıftan en fazla 2 ders alabilir.
+- Mazeret Sınavı: Yalnızca ara sınavlar (Vize) için verilir. Sağlık raporu veya resmi mazeret belgesi, mazeretin bitiminden itibaren en geç 5 İŞ GÜNÜ İÇİNDE dekanlığa/bölüm sekreterliğine yazılı dilekçe ile verilmelidir.
+- Not İtirazı (Maddi Hata): Sınav sonuçlarının ÖBS'de ilan edilmesinden itibaren 5 İŞ GÜNÜ İÇİNDE ilgili bölüm başkanlığına yazılı dilekçe ile başvurulur; dersin öğretim elemanı evrakı inceler ve sonuç en geç 5 iş günü içinde birim yönetim kuruluna iletilir.
+- Tek Ders Sınavı: Mezuniyetine tek dersi kalan ve devamsızlıktan kalmamış olan öğrencilere dönem sonunda tek ders sınav hakkı verilir.
+
+5. LABORATUVARLAR VE TEKNİK İMKANLAR
+- Yazılım Laboratuvarı: Mühendislik Fakültesi 2. katta yer alır. Çift monitörlü iş istasyonları, Ubuntu Linux ve Windows 11 Dual-Boot sistemi; VS Code, IntelliJ IDEA, PyCharm, CLion, MATLAB, Android Studio, Docker, Wireshark yüklüdür.
+- Donanım & Mikroişlemci Laboratuvarı: Arduino, STM32, Raspberry Pi, FPGA kitleri, osiloskop ve mantıksal devre deney setleri bulunur.
+- Eduroam Wi-Fi: Kullanıcı adı: ogrencino@adiyaman.edu.tr, Şifre: ÖBS şifresi, EAP Türü: PEAP / MSCHAPv2.
+
+6. BÖLÜM YÖNETİMİ VE İLETİŞİM
+- Bölüm Adı: Adıyaman Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü
+- Konum: Altınşehir Yerleşkesi, Mühendislik Fakültesi Binası, 2. Kat, Bölüm Sekreterliği Odası, ADIYAMAN
+- Bölüm Sekreteri: Kadriye GÜNDÜZ (Bilgisayar İşletmeni)
+- Telefon: 0 (416) 223 38 00 (Dahili: 2710) / Fakülte Santrali: 0 (416) 219 73 69 - 223 38 08
+- Web Sitesi: https://muhendislik.adiyaman.edu.tr/tr/bolumler/bilgisayar-muhendisligi-bolumu
+- E-posta: bilgisayar@adiyaman.edu.tr
+- Çalışma Saatleri: Hafta içi 08:00 - 12:00 ve 13:00 - 17:00
+
+7. YAZ OKULU ESASLARI (DİĞER ÜNİVERSİTELERDEN DERS ALMA)
+- Adıyaman Üniversitesi bünyesinde yaz okulu AÇILMAMAKTADIR.
+- Öğrenciler diğer üniversitelerin açtığı yaz okullarından senato esaslarına göre ders alabilir.
+- Taban Puan Şartı: Alınacak üniversitenin ilgili programının taban puanı, öğrencinin üniversiteye yerleştiği yıldaki ADYÜ CENG taban puanına EŞİT VEYA DAHA YÜKSEK olmalıdır.
+- Ders Kısıtlaması: Yalnızca daha önce alınıp devam şartı sağlanan ve başarısız olunan (FF veya FD) dersler alınabilir. İlk defa alınacak dersler ile laboratuvar/bitirme projeleri yaz okulunda alınamaz!
+- Kredi Sınırı: En fazla 10 ulusal kredi alınabilir.
+- Başarı Notu: En az CC harf notu alınması gerekmektedir.
+- Ön Onay: Bölüm Başkanlığına onaylı ders içerikleriyle yazılı dilekçe verilerek Yönetim Kurulu onayı alınması ZORUNLUDUR.
+
+8. ÇİFT ANADAL (ÇAP) VE YANDAL
+- Çift Anadal Şartları: AGNO en az 3.00 olmalı, sınıfında başarı sıralamasında ilk %20 diliminde yer almalı ve alttan dersi bulunmamalıdır. En erken 3., en geç 5. yarıyıl başında başvurulur.
+- ÇAP Devam Barajı: Çift anadal süresince AGNO bir defaya mahsus 2.50 altına inebilir; ikinci kez inerse ÇAP kaydı silinir.
+- Yandal Şartları: AGNO en az 2.50 olmalı ve alttan dersi bulunmamalıdır.
+
+9. UYGULAMALI MÜHENDİSLİK EĞİTİMİ (UME / 7+1 EĞİTİM MODELİ)
+- UME Tanımı: Lisans son sınıf (8. yarıyıl) öğrencilerinin bir tam dönem boyunca (en az 14 hafta) haftanın 5 günü bir yazılım şirketi, teknoloji firması, Ar-Ge merkezi veya sanayi kuruluşunda tam zamanlı olarak fiilen mühendislik çalışmalarına katıldığı eğitim programıdır.
+- Başvuru ve Kabul Koşulları: 7. yarıyıl sonu itibarıyla en az 180 AKTS ders yükünü başarıyla tamamlamış olmak, Genel Not Ortalaması (AGNO) en az 2.00 olmak ve alt yarıyıllardan devam zorunluluğu olan başarısız dersi bulunmamak gerekir.
+- Zorunlu Staj ile Farkı: Zorunlu staj 40 iş günüdür ve yaz tatillerinde 20+20 gün olarak yapılır. UME ise bir tam akademik yarıyılı (bahar dönemi) kapsar, haftanın 5 günü tam mesai gerektirir ve müfredatta bağımsız bir ders olarak 30 AKTS ile kredilendirilir.
+- Ücret ve SGK: 3308 Sayılı Mesleki Eğitim Kanunu kapsamında UME süresince öğrencilerin SGK (İş Kazası ve Meslek Hastalığı) primleri Adıyaman Üniversitesi Rektörlüğü tarafından ödenir. İşletmeler öğrenciye net asgari ücretin en az %30'u oranında ücret öder ve devlet teşvikinden faydalanır.
+- Raporlama ve Değerlendirme: Öğrenci haftalık UME çalışma raporu doldurur. Dönem sonunda hazırlanan UME Raporu ve işletme değerlendirme formu bölüm jürisine sunularak harf notuna dönüştürülür.
+
+10. MEZUNİYET VE TEK DERS SINAVI ESASLARI
+- Mezuniyet Şartları: 8 yarıyıllık programdan toplam en az 240 AKTS kredisini başarıyla tamamlamış olmak, Genel Not Ortalamasının (AGNO) en az 2.00 olması, zorunlu stajları (40 iş günü) eksiksiz tamamlamış ve başarılı sayılmış olmak, FF, FD veya DZ harf notlu dersi bulunmamak gerekir.
+- Tek Ders Sınavı: Mezuniyeti için tek bir dersi kalan ve o dersin devam şartını daha önce yerine getirmiş olan öğrencilere tek ders sınav hakkı tanınır. Devamsızlıktan kalınan (DZ) ders için tek ders sınavına girilemez. Akademik takvimde belirtilen tarihte dilekçeyle başvuru yapılır.
+
+11. YATAY GEÇİŞ (EK MADDE-1 VE NOT ORTALAMASI İLE)
+- Ek Madde-1 (Merkezi Yerleştirme Puanı ile Yatay Geçiş): Öğrencinin kayıt olduğu yıldaki ÖSYS/YKS merkezi yerleştirme puanı, geçmek istediği üniversite ve bölümün o yıldaki taban puanına eşit veya yüksek olması durumunda güz ve bahar yarıyıllarında başvuru hakkı sağlar. Hazırlık ve son sınıf dahil her sınıfta kullanılabilir. Bir öğrenci bu haktan eğitim hayatı boyunca sadece 1 kez yararlanabilir (vazgeçip eski üniversitesine dönme hakkı saklıdır).
+- Not Ortalaması (AGNO) ile Kurumlararası Yatay Geçiş: Öğrencinin AGNO'su en az 2.50 olmalı ve alt sınıflardan başarısız dersi bulunmamalıdır. Yalnızca 2. ve 3. sınıfa (3. ve 5. yarıyıllara) başvuru yapılabilir; 1. sınıf ve son sınıfa yapılamaz.
+
+12. KAYIT DONDURMA (ÖĞRENİME ARA VERME)
+- Sağlık, askerlik, maddi imkansızlık veya diğer haklı/geçerli mazeretlerle yarıyıl başlangıcından itibaren en geç 1 ay içinde Bölüm Başkanlığına dilekçe ve resmi mazeret belgesi ile başvurulur.
+- Bir defada en çok 2 yarıyıl, tüm öğrenim süresi boyunca ise en fazla 4 yarıyıl süreyle kayıt dondurulabilir. Kayıt dondurulan süre azami öğrenim süresinden sayılmaz.
+
+13. NOT SİSTEMİ, HARF NOTLARI VE KATSAYILAR
+- AA (4.00), BA (3.50), BB (3.00), CB (2.50), CC (2.00) -> Başarılı, doğrudan geçer.
+- DC (1.50) ve DD (1.00) -> Koşullu başarılı; öğrencinin AGNO'su 2.00 ve üzerinde ise geçer, 2.00 altında kalırsa dersi tekrar etmesi önerilir.
+- FD (0.50) ve FF (0.00) -> Başarısız; ders tekrar alınmalıdır.
+- DZ (0.00) -> Devamsızlık nedeniyle başarısız; genel sınava girme hakkı yoktur ve ders tekrarında derse devam zorunludur.
+- GR -> Sınava girmedi olarak sisteme işlenir.

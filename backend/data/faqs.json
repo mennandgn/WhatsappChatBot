@@ -1,0 +1,34 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "topic": "CENG Staj Koşulları ve Süresi",
+      "category": "CENG Stajı"
+    },
+    {
+      "id": 2,
+      "topic": "Programlama & Müfredat Dersleri",
+      "category": "CENG Dersleri"
+    },
+    {
+      "id": 3,
+      "topic": "Bitirme Projesi (CENG401/402)",
+      "category": "Bitirme Projesi"
+    },
+    {
+      "id": 4,
+      "topic": "Bilgisayar Mühendisliği Laboratuvarları",
+      "category": "Laboratuvarlar"
+    },
+    {
+      "id": 5,
+      "topic": "AGNO 1.80 Barajı & Mezuniyet",
+      "category": "Sınav & AGNO"
+    },
+    {
+      "id": 6,
+      "topic": "Bölüm Sekreterliği & İletişim",
+      "category": "İletişim"
+    }
+  ]
+}
